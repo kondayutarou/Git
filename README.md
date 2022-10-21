@@ -1,2 +1,1 @@
-This repo is for understanding Git
-Some change
+Some 1.3.0 change
